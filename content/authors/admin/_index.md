@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD in Computer Vision
     institution: Imperial College London
-    year: 2012
+    year: 2016
   - course: MSc in Artificial Intelligence
     institution: Aristotle University Thessaloniki, Greece 
-    year: 2003
+    year: 2005
   - course: BSc in Computer Science 
     institution: Aristotle University Thessaloniki, Greece
-    year: 1999 
+    year: 2003 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
