@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Engineer 
+role: Senior Research  Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: FaceSoft 
+- name:  Huawei Technologies Research&Development (UK)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Athanasios(Thanos) Papaioannou is a Senior Research Engineer at Facesoft. His research interests include Computer Vision, Machine Learning, 3D Face Statistical Models and Medical Imaging.
+Athanasios(Thanos) Papaioannou is a Senior Research  Scientist at Huawei Technologies Research&Development (UK). His research interests include Computer Vision, Machine Learning, 3D Face Statistical Models and Medical Imaging.
